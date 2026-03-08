@@ -197,11 +197,11 @@ export const websiteConfig = {
   // 服务器配置
   server: {
     // 页面显示的服务器地址
-    displayAddress: "w-6.cc",
+    displayAddress: "sv.starzx.xin",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "ipv4.w-6.cc",
+    apiAddress:"sv.starzx.xin",
     port: "25565",
-    version: "1.21.4",
+    version: "1.21.11",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
 
